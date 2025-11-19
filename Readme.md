@@ -1,8 +1,11 @@
 
 # Java Spring Boot project showing CRUD operations with relational Database
-# some endpoints to try
 
-## Get list of products
+
+This repo is the backend for a retail inventory management system done as part of a coursera program (Java Development with Databases).
+
+# some http endpoints to try
+## get a list of products
 ```
 curl -X GET "http://localhost:8080/product"
 ```
